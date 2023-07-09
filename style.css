@@ -245,9 +245,9 @@ button:hover, .a:hover{
     width: 70%;
     margin: 200px 0px;
     text-align: center;
-    animation-name:move;
+    /* animation-name:move;
     animation-duration:7s;
-    animation-iteration-count:infinite;
+    animation-iteration-count:infinite; */
 }
 @keyframes move{
     0%{
